@@ -1,0 +1,1 @@
+module.exports.TEXT_FIELD_BACKGROUND_COLOR = '#E5E4E2';
